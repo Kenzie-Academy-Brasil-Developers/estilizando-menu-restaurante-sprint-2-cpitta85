@@ -4,7 +4,7 @@ body{
     margin: 1% 25% 0% 25%;
     font-family: 'Lato';
     font-family: 18px;
-    background-image: url("/img/map-bg.jpg");
+    background-image: url("/map-bg.jpg");
 }/* Use the 'Lato' font family at 18px throughout the body of the document, and cover the background with the 'map-bg.jpg' image. */
 
 nav {
